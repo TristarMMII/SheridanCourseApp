@@ -9,6 +9,7 @@
 https://youtu.be/XTa7DACG0I4
 
 ## About
+Documentation for the Sheridan Course App. Made for students who attend Sheridan College to get all their courses, notifications, content, assignments and chats at the touch of their fingertips. Designed for Humand Computer Interaction course.
 ### Features
 - Course Home Page
   - Home page with all courses that the student is enrolled in
@@ -39,6 +40,24 @@ https://youtu.be/XTa7DACG0I4
   - Shows all notifications for all courses and chats
   - links to page relavent to the notification
   - Red icon to show if read/new
+
+### Future Desirable Functionlities
+- Email Integration
+  - Users will be able to access their Sheridan emails
+- Create Own Personal User Avatar
+  - Similar to Miis or Bitmoji
+  - Will let users express themselves
+  - Help users recognize other users
+- Community Board
+  - Users will be able to make posts, similar to a jamboard 
+  - Users can chat, ask questions, or draw pictures related to course content
+- Video Chat / Calls
+  - In built video chats are phone calls so students can communicate with eachother
+- Functionality to view where the class room is located in an AR / 3D space
+  - Picture similar to Google photosphere
+
+*May be subject to change
+
 
 ## Photos
 ![image](https://user-images.githubusercontent.com/91032829/219990235-b41e6433-81c7-4008-b7f6-84aebbf44c68.png) ![image](https://user-images.githubusercontent.com/91032829/219990293-7d0264f4-1ba6-44b9-88cf-55373009f659.png)
